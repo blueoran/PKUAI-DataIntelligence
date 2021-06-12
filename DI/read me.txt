@@ -1,0 +1,3 @@
+fulldata 是清洗后的训练数据
+test 是填充后的待预测的数据
+submission 是预测的概率和评分
